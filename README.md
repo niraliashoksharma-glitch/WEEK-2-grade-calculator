@@ -1,0 +1,3 @@
+# Week 2 – Student Grade Calculator
+
+This Python program calculates student grades using control flow and data structures. It collects marks for Maths, Science, and English, validates user input, calculates average marks, assigns grades using if/elif/else conditions, and provides personalized comments. The program stores data in lists, processes multiple students using loops, calculates class statistics such as average, highest, and lowest scores, and displays results in a formatted table. It demonstrates the use of functions, lists, for and while loops, and basic error handling with try-except.

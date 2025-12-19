@@ -1,0 +1,19 @@
+Sample Input Data for Testing
+
+Student 1
+Name: Aditi
+Maths: 85
+Science: 90
+English: 88
+
+Student 2
+Name: Rohan
+Maths: 70
+Science: 65
+English: 72
+
+Student 3
+Name: Purva
+Maths: 92
+Science: 88
+English: 90
